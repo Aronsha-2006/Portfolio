@@ -50,10 +50,9 @@ footer {
     color: white;
 }
 .profile-photo {
-    width: 90px;  /* Set a smaller width */
-    height: 90px; /* Set a smaller height */
-    border-radius: 50%; /* Makes the image circular */
+    width: 250px;  
+    height: 250px; 
+    border-radius: 50%; 
     margin-right: 15px;
-    object-fit: cover; /* Ensures the image is properly scaled */
+    object-fit: cover; 
 }
-
